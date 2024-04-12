@@ -221,3 +221,74 @@ http://op-group1-swiftservehd-1.dens.tv/h/h215/index.m3u8
 #EXTINF:-1 tvg-id="tvNMoviesAsia.hk" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/tvnmovies.png?raw=true" group-title="Premium",tvN Movies Asia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 http://op-group1-swiftservehd-1.dens.tv/h/h214/index.m3u8
+#EXTINF:-1, group-title="Indonesia" tvg-logo="",RCTI
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/visionplus/RCTI-DD
+# https://nyanv-live-cdn.mncnow.id/live/eds/RCTI/sa_dash_vmx/RCTI.mpd
+https://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+#EXTINF:-1, group-title="Indonesia" tvg-logo="",SCTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=204&type=hls
+#EXTINF:-1, group-title="Indonesia" tvg-logo="",Indosiar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=205&type=hls
+#EXTINF:-1, group-title="Indonesia" tvg-logo="",NET TV
+https://github.com/AqFad2811/randomlivefromyt2/raw/main/NET.m3u8
+#EXTINF:-1, group-title="Indonesia" tvg-logo="",MNCTV
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/visionplus/MNCTV-HD
+https://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
+#EXTINF:-1 tvg-id="TransTV.id" group-title="Indonesia" tvg-logo="",TRANSTV
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_kamiselaluada_b744100_sleng.m3u8
+#EXTINF:-1, group-title="Indonesia" tvg-logo="",GTV
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/visionplus/GTV-HD
+https://nyanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
+#EXTINF:-1, group-title="Indonesia" tvg-logo="",Kompas TV
+https://github.com/AqFad2811/randomlivefromyt2/raw/main/KompasTV.m3u8
+#EXTINF:-1, group-title="Indonesia" tvg-logo="",Metro TV
+https://github.com/AqFad2811/randomlivefromyt2/raw/main/MetroTV.m3u8
+#EXTINF:-1 tvg-id="MetroTV.id" group-title="Indonesia" tvg-logo="",Metro TV [Backup]
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
+#EXTINF:-1, group-title="Indonesia" tvg-logo="",O Channel
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_206_720p/index.m3u8
+#EXTINF:-1 tvg-id="JakTV.id" group-title="Indonesia" tvg-logo="",Jak TV
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/visionplus/JakTV
+https://nyanv-live-cdn.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd 
+#EXTINF:-1 tvg-id="JakTV.id" group-title="Indonesia" tvg-logo="",Jek TV
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/visionplus/JakTV
+https://nyanv-live-cdn.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd 
+#EXTINF:-1, group-title="Indonesia" tvg-logo="",JTV
+http://122.248.43.138:1935/ch2/myStream/chunklist_w1542065869.m3u8
+#EXTINF:-1, group-title="Indonesia" tvg-logo="",TVRI NASIONAL
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
+#EXTINF:-1, group-title="Indonesia" tvg-logo="",Citra Drama
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6401_720p/index.m3u8
+#EXTINF:-1, group-title="Indonesia" tvg-logo="",Citra Muslim
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6678_720p/index.m3u8
+#EXTINF:-1, group-title="Indonesia" tvg-logo="",Citra Bioskop
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6684_720p/index.m3u8
+#EXTINF:-1, group-title="Indonesia" tvg-logo="",TV Edukasi
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6838_720p/index.m3u8
+#EXTINF:-1, group-title="Indonesia" tvg-logo="",Berita Satu
+https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
+#EXTINF:-1 tvg-id="BeritaSatuNewsChannel.id" group-title="Indonesia" tvg-logo="",Berita Satu [Backup]
+https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
+#EXTINF:-1, group-title="Indonesia" tvg-logo="",CNN Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+#EXTINF:-1, group-title="Indonesia" tvg-logo="",
+#EXTINF:-1, group-title="Indonesia" tvg-logo="",
+#EXTINF:-1, group-title="Indonesia" tvg-logo="",
+#EXTINF:-1, group-title="Indonesia" tvg-logo="",
+#EXTINF:-1, group-title="Indonesia" tvg-logo="",
+#EXTINF:-1, group-title="Indonesia" tvg-logo="",
+#EXTINF:-1, group-title="Indonesia" tvg-logo="",
+#EXTINF:-1, group-title="Indonesia" tvg-logo="",
+#EXTINF:-1, group-title="Indonesia" tvg-logo="",
