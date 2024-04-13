@@ -90,8 +90,7 @@ https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MetroTV.id" tvg-logo="https://mncvision.id/userfiles/image/channel/metro_tv.png" group-title="Indonesia",Metro TV - FHD
-https://github.com/AqFad2811/randomlivefromyt2/raw/main/MetroTV.m3u8
+
 
 #EXTINF:-1 tvg-id="MNCTV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/mnctv.png?raw=true" group-title="Indonesia",MNCTV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/watch/channel/4/mnc-tv
@@ -159,6 +158,9 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1407025059_b744100_sl
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_87.png" group-title="Indonesia",Trans TV - Backup
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_kamiselaluada_b744100_sleng.m3u8
+
+#EXTINF:-1, tvg-id="MetroTV.id" tvg-logo="https://mncvision.id/userfiles/image/channel/metro_tv.png" group-title="Indonesia",Metro TV - FHD
+https://github.com/AqFad2811/randomlivefromyt2/raw/main/MetroTV.m3u8
 
 #EXTINF:-1 tvg-id="tvOne.id" tvg-logo="https://mncvision.id/userfiles/image/channel/tvone.png" group-title="Indonesia",tvOne
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/watch/channel/8/tv-one
