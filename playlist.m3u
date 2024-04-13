@@ -280,7 +280,7 @@ https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6678_720p/index.m3u8
 https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6684_720p/index.m3u8
 #EXTINF:-1, group-title="Indonesia" tvg-logo="",TV Edukasi
 https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6838_720p/index.m3u8
-#EXTINF:-1, group-title="Indonesia" tvg-logo="",Berita Satu
+#EXTINF:-1 tvg-id="BeritaSatuNewsChannel.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/btv.png?raw=true" group-title="Indonesia",BTV [HD]
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 #EXTINF:-1 tvg-id="BeritaSatuNewsChannel.id" group-title="Indonesia" tvg-logo="",Berita Satu [Backup]
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
