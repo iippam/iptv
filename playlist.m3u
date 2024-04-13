@@ -84,11 +84,15 @@ https://nyanv-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="MetroTV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/metrotv.png?raw=true" group-title="Indonesia",Metro TV
+#EXTINF:-1 tvg-id="MetroTV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/metrotv.png?raw=true" group-title="Indonesia",Metro TV - HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MetroTV.id" tvg-logo="https://mncvision.id/userfiles/image/channel/metro_tv.png" group-title="Indonesia",Metro TV - FHD
+https://github.com/AqFad2811/randomlivefromyt2/raw/main/MetroTV.m3u8
+
 #EXTINF:-1 tvg-id="MNCTV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/mnctv.png?raw=true" group-title="Indonesia",MNCTV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/watch/channel/4/mnc-tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
@@ -257,12 +261,8 @@ https://nyanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 #EXTINF:-1, group-title="Indonesia" tvg-logo="",Kompas TV
 https://github.com/AqFad2811/randomlivefromyt2/raw/main/KompasTV.m3u8
 
-#EXTINF:-1, tvg-id="MetroTV.id" group-title="Indonesia" tvg-logo="https://mncvision.id/userfiles/image/channel/metro_tv.png",Metro TV - FHD
-https://github.com/AqFad2811/randomlivefromyt2/raw/main/MetroTV.m3u8
 
 
-#EXTINF:-1, group-title="Indonesia" tvg-logo="",O Channel
-https://znjjprwzgeyyp.vidio.com/hls-p/ingest_206_720p/index.m3u8
 #EXTINF:-1 tvg-id="JakTV.id" group-title="Indonesia" tvg-logo="",Jak TV
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #KODIPROP:inputstream.adaptive.license_type=clearkey
