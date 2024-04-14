@@ -293,7 +293,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h193/index.m3u8
 #EXTINF:-1 tvg-id="MyFamilyChannel" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/myfamilychannel.png?raw=true" group-title="Premium",My Family
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://op-group1-swiftservehd-1.dens.tv/h/h194/index.m3u8
-#EXTINF:-1 tvg-id="MyKidz.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/mykidz.png?raw=true" group-title="Premium",My Kidz
+#EXTINF:-1 tvg-id="MyKidz.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/mykidz.png?raw=true" group-title="Premium;Cartoon",My Kidz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://op-group1-swiftservehd-1.dens.tv/h/h191/index.m3u8
 #EXTINF:-1 tvg-id="ROCKAction.sg" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/rockaction.png?raw=true" group-title="Premium",Rock Action
@@ -325,7 +325,7 @@ http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/10799
 http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/10800
 #EXTINF:-1  group-title="US",US: AMC
 http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/10801
-#EXTINF:-1  group-title="US",US: Animal Planet
+#EXTINF:-1  group-title="Premium;Documentary",US: Animal Planet
 http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/10802
 #EXTINF:-1  group-title="US",US: Baby TV
 http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/10804
@@ -371,11 +371,11 @@ http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/10826
 http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/10827
 #EXTINF:-1  group-title="Premium",US: Discovery Science
 http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/10828
-#EXTINF:-1  group-title="Premium",US: Disney Channel
+#EXTINF:-1  group-title="Premium;Cartoon",US: Disney Channel
 http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/10829
-#EXTINF:-1  group-title="Premium",US: Disney Jr
+#EXTINF:-1  group-title="Premium;Cartoon",US: Disney Jr
 http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/10830
-#EXTINF:-1  group-title="Premium",US: Disney XD
+#EXTINF:-1  group-title="Premium;Cartoon",US: Disney XD
 http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/10831
 #EXTINF:-1  group-title="SPORT TV INTERNATIONAL",US: ESPN 1
 http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/10832
@@ -425,11 +425,11 @@ http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/10854
 http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/10855
 #EXTINF:-1  group-title="US",US: MTV
 http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/10857
-#EXTINF:-1  group-title="Premium",US: Nat Geo
+#EXTINF:-1  group-title="Premium;Documentary",US: Nat Geo
 http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/10858
-#EXTINF:-1  group-title="Premium",US: Nat Geo Wild
+#EXTINF:-1  group-title="Premium;Documentary",US: Nat Geo Wild
 http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/10859
-#EXTINF:-1  group-title="SPORT TV INTERNATIONAL",US: NBA TV
+#EXTINF:-1  group-title="SPORT TV INTERNATIONAL;NBA Channel",US: NBA TV
 http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/10860
 #EXTINF:-1  group-title="US",US: NBC New York
 http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/10861
@@ -439,7 +439,7 @@ http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/10862
 http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/10864
 #EXTINF:-1  group-title="US",US: Nick
 http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/10865
-#EXTINF:-1  group-title="Premium",US: Nick Toons
+#EXTINF:-1  group-title="Premium;Cartoon",US: Nick Toons
 http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/10867
 #EXTINF:-1  group-title="US",US: Outdoor
 http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/10868
@@ -479,7 +479,7 @@ http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/10887
 http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/10888
 #EXTINF:-1  group-title="SPORT TV INTERNATIONAL",US: UFC
 http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/10889
-#EXTINF:-1  group-title="US",US: Universal Kids
+#EXTINF:-1  group-title="US;Cartoon",US: Universal Kids
 http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/10890
 #EXTINF:-1  group-title="US",US: UP
 http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/10892
@@ -629,39 +629,39 @@ http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/914817
 http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/914819
 #EXTINF:-1  group-title="SPORT TV INTERNATIONAL;NBA Channel",NBA: 15
 http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/914821
-#EXTINF:-1  group-title="SPORT TV INTERNATIONAL",MLB: 01
+#EXTINF:-1  group-title="SPORT TV INTERNATIONAL;MLB Channel",MLB: 01
 http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/915075
-#EXTINF:-1  group-title="SPORT TV INTERNATIONAL",MLB: 02
+#EXTINF:-1  group-title="SPORT TV INTERNATIONAL;MLB Channel",MLB: 02
 http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/915076
-#EXTINF:-1  group-title="SPORT TV INTERNATIONAL",MLB: 03
+#EXTINF:-1  group-title="SPORT TV INTERNATIONAL;MLB Channel",MLB: 03
 http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/915077
-#EXTINF:-1  group-title="SPORT TV INTERNATIONAL",MLB: 04
+#EXTINF:-1  group-title="SPORT TV INTERNATIONAL;MLB Channel",MLB: 04
 http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/915078
-#EXTINF:-1  group-title="SPORT TV INTERNATIONAL",MLB: 05
+#EXTINF:-1  group-title="SPORT TV INTERNATIONAL;MLB Channel",MLB: 05
 http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/915079
-#EXTINF:-1  group-title="SPORT TV INTERNATIONAL",MLB: 06
+#EXTINF:-1  group-title="SPORT TV INTERNATIONAL;MLB Channel",MLB: 06
 http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/915080
-#EXTINF:-1  group-title="SPORT TV INTERNATIONAL",MLB: 07
+#EXTINF:-1  group-title="SPORT TV INTERNATIONAL;MLB Channel",MLB: 07
 http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/915081
-#EXTINF:-1  group-title="SPORT TV INTERNATIONAL",MLB: 08
+#EXTINF:-1  group-title="SPORT TV INTERNATIONAL;MLB Channel",MLB: 08
 http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/915082
-#EXTINF:-1  group-title="SPORT TV INTERNATIONAL",MLB: 09
+#EXTINF:-1  group-title="SPORT TV INTERNATIONAL;MLB Channel",MLB: 09
 http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/915083
-#EXTINF:-1  group-title="SPORT TV INTERNATIONAL",MLB: 10
+#EXTINF:-1  group-title="SPORT TV INTERNATIONAL;MLB Channel",MLB: 10
 http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/915084
-#EXTINF:-1  group-title="SPORT TV INTERNATIONAL",MLB: 11
+#EXTINF:-1  group-title="SPORT TV INTERNATIONAL;MLB Channel",MLB: 11
 http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/915085
-#EXTINF:-1  group-title="SPORT TV INTERNATIONAL",MLB: 12
+#EXTINF:-1  group-title="SPORT TV INTERNATIONAL;MLB Channel",MLB: 12
 http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/915086
-#EXTINF:-1  group-title="SPORT TV INTERNATIONAL",MLB: 13
+#EXTINF:-1  group-title="SPORT TV INTERNATIONAL;MLB Channel",MLB: 13
 http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/915087
-#EXTINF:-1  group-title="SPORT TV INTERNATIONAL",MLB: 14
+#EXTINF:-1  group-title="SPORT TV INTERNATIONAL;MLB Channel",MLB: 14
 http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/915088
-#EXTINF:-1  group-title="SPORT TV INTERNATIONAL",MLB: 15
+#EXTINF:-1  group-title="SPORT TV INTERNATIONAL;MLB Channel",MLB: 15
 http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/915089
-#EXTINF:-1  group-title="SPORT TV INTERNATIONAL",MLB: 16
+#EXTINF:-1  group-title="SPORT TV INTERNATIONAL;MLB Channel",MLB: 16
 http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/915090
-#EXTINF:-1  group-title="SPORT TV INTERNATIONAL",MLB: 17
+#EXTINF:-1  group-title="SPORT TV INTERNATIONAL;MLB Channel",MLB: 17
 http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/915091
-#EXTINF:-1  group-title="SPORT TV INTERNATIONAL",MLB: 18
+#EXTINF:-1  group-title="SPORT TV INTERNATIONAL;MLB Channel",MLB: 18
 http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/915092
