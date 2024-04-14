@@ -201,6 +201,9 @@ https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_87.png" group-title="Indonesia",Trans TV Backup
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_kamiselaluada_b744100_sleng.m3u8
 
+#EXTINF:0 tvg-country="ID" tvg-logo="https://i.imgur.com/IGIX3o8.jpg" group-title="Indonesia",TV Kesehatan (1080p)
+https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8?checkedby:iptvcat.com
+
 #EXTINF:-1, tvg-id="MetroTV.id" tvg-logo="https://mncvision.id/userfiles/image/channel/metro_tv.png" group-title="Indonesia",Metro TV FHD
 https://github.com/AqFad2811/randomlivefromyt2/raw/main/MetroTV.m3u8
 
@@ -486,6 +489,14 @@ http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/10893
 http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/10895
 #EXTINF:-1  group-title="US",US: A&E
 http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/19404
+
+
+-----------------SPORT TV----------------------
+#EXTINF:0 tvg-country="ID" tvg-id="SPOTV.kr" tvg-logo="" group-title="SPORT TV INTERNATIONAL",SPOTV (720p)
+http://202.150.161.68/spotv1/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ID" tvg-id="SPOTV2.kr" tvg-logo="" group-title="SPORT TV INTERNATIONAL",SPOTV2 (720p)
+http://202.150.161.68/spotv2/index.m3u8?checkedby:iptvcat.com
+
 #EXTINF:-1  group-title="SPORT TV INTERNATIONAL",NBA 1 Golden State Warriors
 http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/51215
 #EXTINF:-1  group-title="SPORT TV INTERNATIONAL",NBA 2 Miami Heat
@@ -554,9 +565,9 @@ http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/77845
 http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/77846
 #EXTINF:-1  group-title="SPORT TV INTERNATIONAL",US: MSNBC
 http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/80121
-#EXTINF:-1  group-title="SPORT TV INTERNATIONAL",NBA Prime Video 1
+#EXTINF:-1  group-title="SPORT TV INTERNATIONAL; NBA Channel",NBA Prime Video 1
 http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/903014
-#EXTINF:-1  group-title="SPORT TV INTERNATIONAL",NBA Prime Vídeo 2
+#EXTINF:-1  group-title="SPORT TV INTERNATIONAL; NBA Channel",NBA Prime Vídeo 2
 http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/903404
 #EXTINF:-1  group-title="SPORT TV INTERNATIONAL",NFL: 01
 http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/914787
@@ -592,31 +603,31 @@ http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/914804
 http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/914805
 #EXTINF:-1  group-title="SPORT TV INTERNATIONAL",NFL: 20
 http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/914806
-#EXTINF:-1  group-title="SPORT TV INTERNATIONAL",NBA: 01
+#EXTINF:-1  group-title="SPORT TV INTERNATIONAL; NBA Channel",NBA: 01
 http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/914807
-#EXTINF:-1  group-title="SPORT TV INTERNATIONAL",NBA: 02
+#EXTINF:-1  group-title="SPORT TV INTERNATIONAL; NBA Channel",NBA: 02
 http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/914808
-#EXTINF:-1  group-title="SPORT TV INTERNATIONAL",NBA: 03
+#EXTINF:-1  group-title="SPORT TV INTERNATIONAL; NBA Channel",NBA: 03
 http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/914809
-#EXTINF:-1  group-title="SPORT TV INTERNATIONAL",NBA: 04
+#EXTINF:-1  group-title="SPORT TV INTERNATIONAL; NBA Channel",NBA: 04
 http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/914810
-#EXTINF:-1  group-title="SPORT TV INTERNATIONAL",NBA: 05
+#EXTINF:-1  group-title="SPORT TV INTERNATIONAL; NBA Channel",NBA: 05
 http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/914811
-#EXTINF:-1  group-title="SPORT TV INTERNATIONAL",NBA: 06
+#EXTINF:-1  group-title="SPORT TV INTERNATIONAL; NBA Channel",NBA: 06
 http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/914812
-#EXTINF:-1  group-title="SPORT TV INTERNATIONAL",NBA: 07
+#EXTINF:-1  group-title="SPORT TV INTERNATIONAL; NBA Channel",NBA: 07
 http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/914813
-#EXTINF:-1  group-title="SPORT TV INTERNATIONAL",NBA: 08
+#EXTINF:-1  group-title="SPORT TV INTERNATIONAL; NBA Channel",NBA: 08
 http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/914814
-#EXTINF:-1  group-title="SPORT TV INTERNATIONAL",NBA: 09
+#EXTINF:-1  group-title="SPORT TV INTERNATIONAL; NBA Channel",NBA: 09
 http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/914815
-#EXTINF:-1  group-title="SPORT TV INTERNATIONAL",NBA: 10
+#EXTINF:-1  group-title="SPORT TV INTERNATIONAL; NBA Channel",NBA: 10
 http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/914816
-#EXTINF:-1  group-title="SPORT TV INTERNATIONAL",NBA: 11
+#EXTINF:-1  group-title="SPORT TV INTERNATIONAL; NBA Channel",NBA: 11
 http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/914817
-#EXTINF:-1  group-title="SPORT TV INTERNATIONAL",NBA: 13
+#EXTINF:-1  group-title="SPORT TV INTERNATIONAL; NBA Channel",NBA: 13
 http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/914819
-#EXTINF:-1  group-title="SPORT TV INTERNATIONAL",NBA: 15
+#EXTINF:-1  group-title="SPORT TV INTERNATIONAL; NBA Channel",NBA: 15
 http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/914821
 #EXTINF:-1  group-title="SPORT TV INTERNATIONAL",MLB: 01
 http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/915075
