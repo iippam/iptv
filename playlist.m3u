@@ -155,21 +155,24 @@ https://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+
 #EXTINF:-1 tvg-id="RodjaTV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/rodjatv.png?raw=true" group-title="Indonesia",Rodja TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://rodjatv.com/rodjatv/live.m3u8
+
 #EXTINF:-1 tvg-id="RRINet.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/rrinet.png?raw=true" group-title="Indonesia",RRI Net
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://rrinet.rri.co.id/hls/live.m3u8
 
-#EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/sctv.png?raw=true" group-title="Indonesia",SCTV HD
+#EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://mncvision.id/userfiles/image/channel/sctv.png" group-title="Indonesia",SCTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 http://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
-#EXTINF:-1 tvg-id="SEAToday.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/seatoday.png?raw=true" group-title="Indonesia",SEA Today
+
+#EXTINF:-1 tvg-id="SEAToday.id" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_336.png" group-title="Indonesia",SEA Today
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/webclient/#/live
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
@@ -184,7 +187,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/SEA-Channel/sa_dash_vmx/SEA-Channel.mp
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_110.png" group-title="Indonesia",Trans 7 Backup
+#EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_110.png" group-title="Indonesia",Trans7 Backup
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1407025059_b744100_sleng.m3u8
 
 #EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/transtv.png?raw=true" group-title="Indonesia",Trans TV
@@ -224,6 +227,38 @@ https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
+
+#EXTINF:-1, group-title="Indonesia" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_80.png",RCTI
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/visionplus/RCTI-DD
+# https://nyanv-live-cdn.mncnow.id/live/eds/RCTI/sa_dash_vmx/RCTI.mpd
+https://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+#EXTINF:-1 tvg-id="NETTVHD.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/net.png?raw=true" group-title="Indonesia",NET.[HD]
+https://github.com/AqFad2811/randomlivefromyt2/raw/main/NET.m3u8
+
+#EXTINF:-1, group-title="Indonesia" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_82.png",MNCTV-HD
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/visionplus/MNCTV-HD
+https://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
+
+#EXTINF:-1, group-title="Indonesia" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_106.png",Kompas TV Streaming
+https://github.com/AqFad2811/randomlivefromyt2/raw/main/KompasTV.m3u8
+
+#EXTINF:-1 tvg-id="JakTV.id" group-title="Indonesia" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_113.jpg",Jak TV
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/visionplus/JakTV
+https://nyanv-live-cdn.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd 
+#EXTINF:-1 tvg-id="JakTV.id" group-title="Indonesia" tvg-logo="",Jek TV
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/visionplus/JakTV
+https://nyanv-live-cdn.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd 
+
+
+----------------------Premium--------------------------
 #EXTINF:-1 tvg-id="CelestialClassicMovies.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/ccm.png?raw=true" group-title="Premium",Celestial Classic Movies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 http://op-group1-swiftservehd-1.dens.tv/h/h239/index.m3u8
@@ -272,58 +307,8 @@ http://op-group1-swiftservehd-1.dens.tv/h/h215/index.m3u8
 #EXTINF:-1 tvg-id="tvNMoviesAsia.hk" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/tvnmovies.png?raw=true" group-title="Premium",tvN Movies Asia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 http://op-group1-swiftservehd-1.dens.tv/h/h214/index.m3u8
-#EXTINF:-1, group-title="Indonesia" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_80.png",RCTI
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/visionplus/RCTI-DD
-# https://nyanv-live-cdn.mncnow.id/live/eds/RCTI/sa_dash_vmx/RCTI.mpd
-https://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
-#EXTINF:-1 tvg-id="NETTVHD.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/net.png?raw=true" group-title="Indonesia",NET.[HD]
-https://github.com/AqFad2811/randomlivefromyt2/raw/main/NET.m3u8
 
-#EXTINF:-1, group-title="Indonesia" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_82.png",MNCTV-HD
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/visionplus/MNCTV-HD
-https://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
-
-#EXTINF:-1, group-title="Indonesia" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_106.png",Kompas TV Streaming
-https://github.com/AqFad2811/randomlivefromyt2/raw/main/KompasTV.m3u8
-
-#EXTINF:-1 tvg-id="JakTV.id" group-title="Indonesia" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_113.jpg",Jak TV
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/visionplus/JakTV
-https://nyanv-live-cdn.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd 
-#EXTINF:-1 tvg-id="JakTV.id" group-title="Indonesia" tvg-logo="",Jek TV
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/visionplus/JakTV
-https://nyanv-live-cdn.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd 
-#EXTINF:-1, group-title="Indonesia" tvg-logo="",JTV
-http://122.248.43.138:1935/ch2/myStream/chunklist_w1542065869.m3u8
-
-#EXTINF:-1, group-title="Indonesia" tvg-logo="",Citra Drama
-https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6401_720p/index.m3u8
-#EXTINF:-1, group-title="Indonesia" tvg-logo="",Citra Muslim
-https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6678_720p/index.m3u8
-#EXTINF:-1, group-title="Indonesia" tvg-logo="",Citra Bioskop
-https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6684_720p/index.m3u8
-#EXTINF:-1, group-title="Indonesia" tvg-logo="",TV Edukasi
-https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6838_720p/index.m3u8
-
-#EXTINF:-1, group-title="Indonesia" tvg-logo="",
-#EXTINF:-1, group-title="Indonesia" tvg-logo="",
-#EXTINF:-1, group-title="Indonesia" tvg-logo="",
-#EXTINF:-1, group-title="Indonesia" tvg-logo="",
-#EXTINF:-1, group-title="Indonesia" tvg-logo="",
-#EXTINF:-1, group-title="Indonesia" tvg-logo="",
-#EXTINF:-1, group-title="Indonesia" tvg-logo="",
-#EXTINF:-1, group-title="Indonesia" tvg-logo="",
-#EXTINF:-1, group-title="Indonesia" tvg-logo="",
-
-
---------------------------US TV--------------------------------------
+--------------------------US TV-------------------------------------
 #EXTINF:-1  group-title="US",US: ABC New York
 http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/10796
 #EXTINF:-1  group-title="US",US: ABC Boston
