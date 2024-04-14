@@ -205,7 +205,7 @@ https://github.com/AqFad2811/randomlivefromyt2/raw/main/MetroTV.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://nyanv-live-cdn.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd
 
-#EXTINF:-1 tvg-id="tvOne.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/tvone.png?raw=true" group-title="Indonesia",tvOne FHD
+#EXTINF:-1 tvg-id="tvOne.id" tvg-logo="https://mncvision.id/userfiles/image/channel/tvone.png" group-title="Indonesia",tvOne FHD
 https://github.com/AqFad2811/randomlivefromyt3/blob/main/tvOne.m3u8
 
 #EXTINF:-1 tvg-id="TVRI.id" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="Indonesia",TVRI Nasional
