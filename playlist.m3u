@@ -90,8 +90,6 @@ https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
 
-
-
 #EXTINF:-1 tvg-id="MNCTV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/mnctv.png?raw=true" group-title="Indonesia",MNCTV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/watch/channel/4/mnc-tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
@@ -133,7 +131,7 @@ https://rodjatv.com/rodjatv/live.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://rrinet.rri.co.id/hls/live.m3u8
 
-#EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/sctv.png?raw=true" group-title="Indonesia",SCTV [HD]
+#EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/sctv.png?raw=true" group-title="Indonesia",SCTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 http://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
 #EXTINF:-1 tvg-id="SEAToday.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/seatoday.png?raw=true" group-title="Indonesia",SEA Today
@@ -151,15 +149,15 @@ https://nyanv-live-cdn.mncnow.id/live/eds/SEA-Channel/sa_dash_vmx/SEA-Channel.mp
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_110.png" group-title="Indonesia",Trans 7-Backup
+#EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_110.png" group-title="Indonesia",Trans 7 Backup
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1407025059_b744100_sleng.m3u8
 
 #EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/transtv.png?raw=true" group-title="Indonesia",Trans TV
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_87.png" group-title="Indonesia",Trans TV - Backup
+#EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_87.png" group-title="Indonesia",Trans TV Backup
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_kamiselaluada_b744100_sleng.m3u8
 
-#EXTINF:-1, tvg-id="MetroTV.id" tvg-logo="https://mncvision.id/userfiles/image/channel/metro_tv.png" group-title="Indonesia",Metro TV - FHD
+#EXTINF:-1, tvg-id="MetroTV.id" tvg-logo="https://mncvision.id/userfiles/image/channel/metro_tv.png" group-title="Indonesia",Metro TV FHD
 https://github.com/AqFad2811/randomlivefromyt2/raw/main/MetroTV.m3u8
 
 #EXTINF:-1 tvg-id="tvOne.id" tvg-logo="https://mncvision.id/userfiles/image/channel/tvone.png" group-title="Indonesia",tvOne
@@ -331,7 +329,7 @@ http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/10809
 http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/10810
 #EXTINF:-1  group-title="US",US: C-SPAN 2
 http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/10811
-#EXTINF:-1  group-title="US",US: Cartoon Network
+#EXTINF:-1  group-title="Premium",US: Cartoon Network
 http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/10812
 #EXTINF:-1  group-title="US",US: CBS New York
 http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/10813
@@ -339,9 +337,9 @@ http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/10813
 http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/10814
 #EXTINF:-1  group-title="US",US: CBS Orlando
 http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/10815
-#EXTINF:-1  group-title="US",US: Cinemax East
+#EXTINF:-1  group-title="Premium",US: Cinemax East
 http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/10816
-#EXTINF:-1  group-title="US",US: Cinemax East
+#EXTINF:-1  group-title="Premium",US: Cinemax East
 http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/10817
 #EXTINF:-1  group-title="US",US: CNN
 http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/10819
@@ -351,25 +349,25 @@ http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/10820
 http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/10821
 #EXTINF:-1  group-title="US",US: Comedy TV
 http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/10822
-#EXTINF:-1  group-title="US",US: Discovery Channel
+#EXTINF:-1  group-title="Premium",US: Discovery Channel
 http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/10825
-#EXTINF:-1  group-title="US",US: Discovery Family
+#EXTINF:-1  group-title="Premium",US: Discovery Family
 http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/10826
-#EXTINF:-1  group-title="US",US: Discovery ID
+#EXTINF:-1  group-title="Premium",US: Discovery ID
 http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/10827
-#EXTINF:-1  group-title="US",US: Discovery Science
+#EXTINF:-1  group-title="Premium",US: Discovery Science
 http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/10828
-#EXTINF:-1  group-title="US",US: Disney Channel
+#EXTINF:-1  group-title="Premium",US: Disney Channel
 http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/10829
-#EXTINF:-1  group-title="US",US: Disney Jr
+#EXTINF:-1  group-title="Premium",US: Disney Jr
 http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/10830
-#EXTINF:-1  group-title="US",US: Disney XD
+#EXTINF:-1  group-title="Premium",US: Disney XD
 http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/10831
-#EXTINF:-1  group-title="US",US: ESPN 1
+#EXTINF:-1  group-title="SPORT TV INTERNATIONAL",US: ESPN 1
 http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/10832
-#EXTINF:-1  group-title="US",US: ESPN 2
+#EXTINF:-1  group-title="SPORT TV INTERNATIONAL",US: ESPN 2
 http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/10833
-#EXTINF:-1  group-title="US",US: Fight Network
+#EXTINF:-1  group-title="SPORT TV INTERNATIONAL",US: Fight Network
 http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/10834
 #EXTINF:-1  group-title="US",US: FOX New York
 http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/10836
@@ -377,9 +375,9 @@ http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/10836
 http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/10837
 #EXTINF:-1  group-title="US",US: FOX NEWS
 http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/10838
-#EXTINF:-1  group-title="US",US: FOX Sports 1
+#EXTINF:-1  group-title="SPORT TV INTERNATIONAL",US: FOX Sports 1
 http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/10839
-#EXTINF:-1  group-title="US",US: FOX Sports 2
+#EXTINF:-1  group-title="SPORT TV INTERNATIONAL",US: FOX Sports 2
 http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/10840
 #EXTINF:-1  group-title="US",US: FX East
 http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/10841
@@ -393,15 +391,15 @@ http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/10844
 http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/10845
 #EXTINF:-1  group-title="US",US: Hallmark
 http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/10846
-#EXTINF:-1  group-title="US",US: Hallmark Drama
+#EXTINF:-1  group-title="Premium",US: Hallmark Drama
 http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/10847
-#EXTINF:-1  group-title="US",US: HBO
+#EXTINF:-1  group-title="Premium",US: HBO
 http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/10848
-#EXTINF:-1  group-title="US",US: HBO West
+#EXTINF:-1  group-title="Premium",US: HBO West
 http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/10849
-#EXTINF:-1  group-title="US",US: HBO 2
+#EXTINF:-1  group-title="Premium",US: HBO 2
 http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/10850
-#EXTINF:-1  group-title="US",US: HBO Family
+#EXTINF:-1  group-title="Premium",US: HBO Family
 http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/10851
 #EXTINF:-1  group-title="US",US: HGTV East
 http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/10852
@@ -413,11 +411,11 @@ http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/10854
 http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/10855
 #EXTINF:-1  group-title="US",US: MTV
 http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/10857
-#EXTINF:-1  group-title="US",US: Nat Geo
+#EXTINF:-1  group-title="Premium",US: Nat Geo
 http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/10858
-#EXTINF:-1  group-title="US",US: Nat Geo Wild
+#EXTINF:-1  group-title="Premium",US: Nat Geo Wild
 http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/10859
-#EXTINF:-1  group-title="US",US: NBA TV
+#EXTINF:-1  group-title="SPORT TV INTERNATIONAL",US: NBA TV
 http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/10860
 #EXTINF:-1  group-title="US",US: NBC New York
 http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/10861
@@ -427,7 +425,7 @@ http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/10862
 http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/10864
 #EXTINF:-1  group-title="US",US: Nick
 http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/10865
-#EXTINF:-1  group-title="US",US: Nick Toons
+#EXTINF:-1  group-title="Premium",US: Nick Toons
 http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/10867
 #EXTINF:-1  group-title="US",US: Outdoor
 http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/10868
@@ -439,7 +437,7 @@ http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/10871
 http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/10873
 #EXTINF:-1  group-title="US",US: Showtime West
 http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/10874
-#EXTINF:-1  group-title="US",US: ESPN Deportes
+#EXTINF:-1  group-title="SPORT TV INTERNATIONAL",US: ESPN Deportes
 http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/10875
 #EXTINF:-1  group-title="US",US: Showtime Family Zone
 http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/10876
@@ -465,7 +463,7 @@ http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/10886
 http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/10887
 #EXTINF:-1  group-title="US",US: TUDN
 http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/10888
-#EXTINF:-1  group-title="US",US: UFC
+#EXTINF:-1  group-title="SPORT TV INTERNATIONAL",US: UFC
 http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/10889
 #EXTINF:-1  group-title="US",US: Universal Kids
 http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/10890
