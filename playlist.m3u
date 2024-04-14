@@ -409,7 +409,7 @@ http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/10846
 http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/10847
 #EXTINF:-1 tvg-id="401" group-title="Premium",US: HBO
 http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/10848
-#EXTINF:-1  group-title="Premium",US: HBO West
+#EXTINF:-1  group-title="Premium" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0c/HBO_West.png/revision/latest?cb=20210809121325",US: HBO West
 http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/10849
 #EXTINF:-1  group-title="Premium",US: HBO 2
 http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/10850
