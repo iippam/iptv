@@ -109,13 +109,16 @@ https://nyanv-live-cdn.mncnow.id/live/eds/JTV/sa_dash_vmx/JTV.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://nyanv-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 
+#EXTINF:-1, group-title="Indonesia" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_106.png",Kompas TV Streaming
+https://github.com/AqFad2811/randomlivefromyt2/raw/main/KompasTV.m3u8
+
 #EXTINF:-1 tvg-id="MagnaChannel.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/magna.png?raw=true" group-title="Indonesia",Magna Channel
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MetroTV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/metrotv.png?raw=true" group-title="Indonesia",Metro TV - HD
+#EXTINF:-1 tvg-id="MetroTV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/metrotv.png?raw=true" group-title="Indonesia",Metro TV HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -243,9 +246,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/visionplus/MNCTV-HD
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
-
-#EXTINF:-1, group-title="Indonesia" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_106.png",Kompas TV Streaming
-https://github.com/AqFad2811/randomlivefromyt2/raw/main/KompasTV.m3u8
 
 #EXTINF:-1 tvg-id="JakTV.id" group-title="Indonesia" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_113.jpg",Jak TV
 #EXTVLCOPT:http-referrer=https://visionplus.id
