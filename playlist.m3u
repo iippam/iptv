@@ -15,7 +15,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_103.png" group-title="Indonesia",Berita Satu HD
+#EXTINF:-1 tvg-id="BTV.id" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_103.png" group-title="Indonesia",Berita Satu HD
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 
 #EXTINF:-1 tvg-id="CNBCIndonesia.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/cnbcindonesia.png?raw=true" group-title="Indonesia",CNBC Indonesia
@@ -54,7 +54,7 @@ https://dacastmmd.mmdlive.lldns.net/dacastmmd/683cc426c19442a4ba31c53be5c963bb/i
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://nyanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
-#EXTINF:-1, group-title="Indonesia" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_81.png",GTV
+#EXTINF:-1, tvg-id="GTV.id" group-title="Indonesia" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_81.png",GTV Backup
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/visionplus/GTV-HD
@@ -73,13 +73,13 @@ https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
 https://dgwubfppws111.cloudfront.net/out/v1/667a86e35ddd496c886fa11598dc184d/index.m3u8
 
 #EXTINF:-1 tvg-id="IndonesianaTV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/indonesianatv.png?raw=true" group-title="Indonesia",Indonesiana.TV FHD
-https://63b2dc7196c38.streamlock.net:1937/musikfolklor/ngrp:musikfolklor_all/chunklist_w180620330_b2128000.m3u8
+https://dgwubfppws111.cloudfront.net/out/v1/667a86e35ddd496c886fa11598dc184d/index_1.m3u8
 
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/indosiar.png?raw=true" group-title="Indonesia",Indosiar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 http://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
 
-#EXTINF:-1 tvg-id="iNews.id"tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/inews.png?raw=true" group-title="Indonesia",iNews
+#EXTINF:-1 tvg-id="iNews.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/inews.png?raw=true" group-title="Indonesia",iNews
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/watch/channel/5/inews
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
@@ -109,7 +109,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/JTV/sa_dash_vmx/JTV.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://nyanv-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 
-#EXTINF:-1, group-title="Indonesia" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_106.png",Kompas TV Streaming
+#EXTINF:-1, tvg-id="KompasTV.id" group-title="Indonesia" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_106.png",Kompas TV Streaming
 https://github.com/AqFad2811/randomlivefromyt2/raw/main/KompasTV.m3u8
 
 #EXTINF:-1 tvg-id="MagnaChannel.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/magna.png?raw=true" group-title="Indonesia",Magna Channel
@@ -234,7 +234,7 @@ https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 
-#EXTINF:-1, group-title="Indonesia" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_80.png",RCTI
+#EXTINF:-1, tvg-id="RCTI.id" group-title="Indonesia" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_80.png",RCTI
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/visionplus/RCTI-DD
