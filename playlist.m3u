@@ -404,13 +404,13 @@ http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/10845
 http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/10846
 #EXTINF:-1  group-title="Premium",US: Hallmark Drama
 http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/10847
-#EXTINF:-1  group-title="Premium",US: HBO
+#EXTINF:-1 tvg-id="401" group-title="Premium",US: HBO
 http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/10848
 #EXTINF:-1  group-title="Premium",US: HBO West
 http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/10849
 #EXTINF:-1  group-title="Premium",US: HBO 2
 http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/10850
-#EXTINF:-1  group-title="Premium",US: HBO Family
+#EXTINF:-1 tvg-id="403" group-title="Premium",US: HBO Family
 http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/10851
 #EXTINF:-1  group-title="US",US: HGTV East
 http://dns.clientetv.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/10852
