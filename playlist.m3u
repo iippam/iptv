@@ -209,7 +209,6 @@ https://github.com/AqFad2811/randomlivefromyt2/raw/main/MetroTV.m3u8
 https://nyanv-live-cdn.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd
 
 #EXTINF:-1 tvg-id="tvOne.id" tvg-logo="https://mncvision.id/userfiles/image/channel/tvone.png" group-title="Indonesia",tvOne FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://raw.githubusercontent.com/AqFad2811/randomlivefromyt3/main/tvOne.m3u8
 
 #EXTINF:-1 tvg-id="TVRI.id" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="Indonesia",TVRI Nasional
