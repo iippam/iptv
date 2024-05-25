@@ -1,5 +1,5 @@
 ############## FIFA ###############
-#EXTINF:-1 tvg-logo="https://github.com/OngisMbois/iptv/raw/main/Ongistvku1.png" group-title="LIVE",LIVE 1
+#EXTINF:-1 group-logo="https://github.com/iippam/iptv/blob/main/assets/fifa_logo.jpg?raw=true" tvg-logo="https://github.com/OngisMbois/iptv/raw/main/Ongistvku1.png" group-title="LIVE",LIVE 1
 https://i.mjh.nz/SamsungTVPlus/ATBA3300007PT.m3u8
 ##https://1123139281.cdn.khmer-hd.com/phoHD/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/OngisMbois/iptv/raw/main/Ongistvku1.png" group-title="LIVE",LIVE 2
@@ -1916,3 +1916,19 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/net/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/134/daaitv/manifest.mpd
+
+
+#EXTINF:-1 group-logo="https://github.com/iippam/iptv/blob/main/assets/cctv_icon.png?raw=true" tvg-logo="https://github.com/iippam/iptv/blob/main/assets/cctv_icon.png?raw=true" group-title="CCTV Batam",Batu Aji SP
+https://matanya.batam.go.id/cctv/batuaji/stream.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iippam/iptv/blob/main/assets/cctv_icon.png?raw=true" group-title="CCTV Batam",Alun Alun Engku Putri
+https://matanya.batam.go.id/cctv/atap/stream.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iippam/iptv/blob/main/assets/cctv_icon.png?raw=true" group-title="CCTV Batam",Engku Putri - Selatan
+https://matanya.batam.go.id/cctv/gerselatan/stream.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iippam/iptv/blob/main/assets/cctv_icon.png?raw=true" group-title="CCTV Batam",Engku Putri - Utara
+https://matanya.batam.go.id/cctv/gerutara/stream.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iippam/iptv/blob/main/assets/cctv_icon.png?raw=true" group-title="CCTV Batam",Madani arah Ocarina
+https://matanya.batam.go.id/cctv/madani1/stream.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iippam/iptv/blob/main/assets/cctv_icon.png?raw=true" group-title="CCTV Batam",Simpang Kuda
+https://matanya.batam.go.id/cctv/simpkuda2/stream.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iippam/iptv/blob/main/assets/cctv_icon.png?raw=true" group-title="CCTV Batam",Pelabuhan Sekupang
+https://matanya.batam.go.id/cctv/sekupang/stream.m3u8
