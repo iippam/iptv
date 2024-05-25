@@ -2200,3 +2200,19 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/nba/manifest.mpd
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/stream3/streamPlaylist.m3u8
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI4)/index.m3u8
 https://epg.pw/stream/1e0fcfc4f18549722a9231c62a97daeb28dc0347372af159f9aa06cf1cbdee64.m3u8
+
+
+#EXTINF:-1 group-title="CCTV Batam",Batu Aji - SP
+https://matanya.batam.go.id/cctv/batuaji/stream.m3u8
+#EXTINF:-1 group-title="CCTV Batam",Atas Walikota
+https://matanya.batam.go.id/cctv/atap/stream.m3u8
+#EXTINF:-1 group-title="CCTV Batam",Engku Putri - Selatan
+https://matanya.batam.go.id/cctv/gerselatan/stream.m3u8
+#EXTINF:-1 group-title="CCTV Batam",Engku Putri - Utara
+https://matanya.batam.go.id/cctv/gerutara/stream.m3u8
+#EXTINF:-1 group-title="CCTV Batam",Madani arah Ocarina
+https://matanya.batam.go.id/cctv/madani1/stream.m3u8
+#EXTINF:-1 group-title="CCTV Batam",Simpang Kuda
+https://matanya.batam.go.id/cctv/simpkuda2/stream.m3u8
+#EXTINF:-1 group-title="CCTV Batam",Pelabuhan Sekupang
+https://matanya.batam.go.id/cctv/sekupang/stream.m3u8
