@@ -1,12 +1,12 @@
 ############## FIFA ###############
-#EXTINF:-1 group-logo="https://github.com/iippam/iptv/blob/main/assets/fifa_logo.jpg?raw=true" tvg-logo="https://www.fifplay.com/img/public/fifa-logo.png" group-title="LIVE FIFA",LIVE 1
+#EXTINF:-1 group-logo="https://github.com/iippam/iptv/blob/main/assets/fifa_logo.jpg?raw=true" tvg-logo="https://www.fifplay.com/img/public/fifa-logo.png" group-title="FIFA LIVE ⚽⚽",FIFA LIVE 1
 https://i.mjh.nz/SamsungTVPlus/ATBA3300007PT.m3u8
 ##https://1123139281.cdn.khmer-hd.com/phoHD/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://www.fifplay.com/img/public/fifa-logo.png" group-title="LIVE FIFA",LIVE 2
+#EXTINF:-1 tvg-logo="https://www.fifplay.com/img/public/fifa-logo.png" group-title="FIFA LIVE ⚽⚽",FIFA LIVE 2
 https://i.mjh.nz/SamsungTVPlus/GBBD1100008YW.m3u8
-#EXTINF:-1 tvg-logo="https://www.fifplay.com/img/public/fifa-logo.png" group-title="LIVE FIFA",LIVE 3
+#EXTINF:-1 tvg-logo="https://www.fifplay.com/img/public/fifa-logo.png" group-title="FIFA LIVE ⚽⚽",FIFA LIVE 3
 https://i.mjh.nz/SamsungTVPlus/ITBD1000002HF.m3u8
-#EXTINF:-1 tvg-logo="https://www.fifplay.com/img/public/fifa-logo.pngg" group-title="LIVE FIFA",LIVE 4
+#EXTINF:-1 tvg-logo="https://www.fifplay.com/img/public/fifa-logo.png" group-title="FIFA LIVE ⚽⚽",FIFA LIVE 4
 https://i.mjh.nz/SamsungTVPlus/ESBC2700009B4.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://beetv.my.id/logo/proliga.png" group-title="Live Event", ProLiga CH1
@@ -21,7 +21,6 @@ http://45.12.2.240:8080/b7c2ba83/b65f5b29/298550
 #EXTINF:-1 tvg-id="" tvg-logo="https://beetv.my.id/logo/proliga.png" group-title="Live Event", ProLiga CH3
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298550
-
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=video/mp2t
