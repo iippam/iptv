@@ -1,6 +1,5 @@
 #EXTM3U
 
-
 #EXTINF:-1 tvg-id="ANTV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/antv.png?raw=true" group-title="Indonesia" group-logo="https://pluspng.com/img-png/flag-logo-vector-png-republic-of-indonesia-flag-logo-vector-1600.png" ,ANTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8
@@ -2207,7 +2206,7 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI4)/index.m3u8
 https://epg.pw/stream/1e0fcfc4f18549722a9231c62a97daeb28dc0347372af159f9aa06cf1cbdee64.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://github.com/iippam/iptv/blob/main/assets/cctv_icon.png?raw=true" group-title="CCTV Batam",Batu Aji SP
+#EXTINF:-1 group-logo="https://github.com/iippam/iptv/blob/main/assets/cctv_icon.png?raw=true" tvg-logo="https://github.com/iippam/iptv/blob/main/assets/cctv_icon.png?raw=true" group-title="CCTV Batam",Batu Aji SP
 https://matanya.batam.go.id/cctv/batuaji/stream.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/iippam/iptv/blob/main/assets/cctv_icon.png?raw=true" group-title="CCTV Batam",Alun Alun Engku Putri
 https://matanya.batam.go.id/cctv/atap/stream.m3u8
