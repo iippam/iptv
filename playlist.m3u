@@ -764,7 +764,7 @@ http://op-group1-swiftservehd-1.dens.tv/s/s03/index.m3u8?app_type=web&userid=lit
 http://210.210.155.35/x6bnqe/s/s41/index.m3u8
 
 
-*****************************************************************************************************
+################################################################ **************************
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -849,6 +849,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0c
 ################################################################ HBO SG ##########################################
 ################################################################ HBO SG ##########################################
 ################################################################ HBO SG ##########################################
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a407479f074d43d798478c1212d95876:3afb53a2643939cd7128fa7ceded533a
 #EXTINF:-1 tvg-id="HBO HD" tvg-url="" tvg-logo="https://www.pinclipart.com/picdir/big/217-2170584_hbo-logo-png-clipart-transparent-hbo-logo-png.png " group-title="HBO GROUP",HBO (OTT)
@@ -870,11 +871,11 @@ https://tglmp03.akamaized.net/out/v1/d15476c2807d4380b0cc375a7d861752/manifest.m
 https://tglmp02.akamaized.net/out/v1/b37a81eb3585471cb9c639c78edcdefa/manifest.mpd
 
 
-***************************************************************************HBO MAX ************************
-***************************************************************************HBO MAX ************************
-***************************************************************************HBO MAX ************************
-***************************************************************************HBO MAX ************************
-***************************************************************************HBO MAX ************************
+################################################################ HBO MAX ************************
+################################################################ HBO MAX ************************
+################################################################ HBO MAX ************************
+################################################################ HBO MAX ************************
+################################################################ HBO MAX ************************
 
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #EXTINF:-1 tvg-id="TV2 Sport Premium HD (N) (T)" tvg-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/njoi/boo.png" group-title="MOVIES", Boo
@@ -887,7 +888,7 @@ https://cors-proxy.elfsight.com/https://staging-linearjitp-playback.astro.com.my
 
 
 
-***************************************************************************************************
+################################################################ ************************
 
 
 
@@ -1380,7 +1381,7 @@ https://testfunctionlive.mncnow.id/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd
 #EXTINF:-1 tvg-id=" Reformed 21.Id" tvg-logo="https://reformed21.tv/images/logo.png" group-title="RELIGION ", Reformed 21
 https://testfunctionlive.mncnow.id/live/eds/Reformed21/sa_dash_vmx/Reformed21.mpd
 
-**************************************MUSIC********************************************************************************
+**************************************MUSIC################################################################ *****
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
