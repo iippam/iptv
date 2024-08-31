@@ -2036,6 +2036,15 @@ https://op-group1-swiftservehd-1.dens.tv/h/h223/index.m3u8
 #EXTINF:-1 tvg-id="NET.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/net.png?raw=true" group-title="Indonesia",NET. FHD
 https://github.com/AqFad2811/randomlivefromyt2/raw/main/NET.m3u8
 
+#EXTINF:-1 group-title="Indonesia" tvg-id="Net.id" tvg-logo="https://iptv.urfan.web.id/logo/net.png",NET
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+http://op-group1-swiftservesd-1.dens.tv/h/h06/01.m3u8
+
+#EXTINF:-1 group-title="Indonesia" tvg-id="Net.id" tvg-logo="https://iptv.urfan.web.id/logo/net.png",NET HD
+#EXTVLCOPT:http-user-agent=YouTV/1.8.1-prod.release+d73ba1cb (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://flv.intechmedia.net/live/ch114.m3u8
+
 #EXTINF:-1 tvg-id="NusantaraTV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/nusantaratv.png?raw=true" group-title="Indonesia",Nusantara TV FHD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstreamaddon=inputstream.adaptive
