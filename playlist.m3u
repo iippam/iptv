@@ -1430,6 +1430,41 @@ http://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
 https://cempedak-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
 
+###########################
+######## MNC GROUP ########
+###########################
+
+#EXTINF:-1 group-title="Indonesia" tvg-id="RCTI.id" tvg-logo="https://iptv.urfan.web.id/logo/rcti.png",RCTI
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZjdiMDljNTItMmYzZC0zNDcyLTllYmItY2QxNDdiYzlhZWY0
+#EXTVLCOPT:http-user-agent=MNCNow/6.33.3 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+
+#EXTINF:-1 group-title="Indonesia" tvg-id="MNCTV.id" tvg-logo="https://iptv.urfan.web.id/logo/mnctv.png",MNCTV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZjdiMDljNTItMmYzZC0zNDcyLTllYmItY2QxNDdiYzlhZWY0
+#EXTVLCOPT:http-user-agent=MNCNow/6.33.0 ExoPlayerLib/2.19.1 (Linux;Android 15.0.0;)
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://cempedak-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
+
+#EXTINF:-1 group-title="Indonesia" tvg-id="GTV.id" tvg-logo="https://iptv.urfan.web.id/logo/gtv.png",GTV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZjdiMDljNTItMmYzZC0zNDcyLTllYmItY2QxNDdiYzlhZWY0
+#EXTVLCOPT:http-user-agent=MNCNow/6.33.0 ExoPlayerLib/2.19.1 (Linux;Android 15.0.0;)
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://cempedak-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
+
+#EXTINF:-1 group-title="Indonesia" tvg-id="iNews.id" tvg-logo="https://iptv.urfan.web.id/logo/inews.png",iNews
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZjdiMDljNTItMmYzZC0zNDcyLTllYmItY2QxNDdiYzlhZWY0
+#EXTVLCOPT:http-user-agent=MNCNow/6.33.0 ExoPlayerLib/2.19.1 (Linux;Android 15.0.0;)
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://cempedak-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
+
+
+
+
 #################################
 ######## KOMPAS GRAMEDIA ########
 #################################
@@ -1458,6 +1493,17 @@ https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
 
+#EXTINF:-1, tvg-id="MetroTV.id" tvg-logo="https://mncvision.id/userfiles/image/channel/metro_tv.png" group-title="Indonesia",Metro TV FHD
+https://github.com/AqFad2811/randomlivefromyt2/raw/main/MetroTV.m3u8
+
+#EXTINF:-1 group-title="Indonesia" tvg-id="MetroTV.id" tvg-logo="https://iptv.urfan.web.id/logo/metrotv.png",Metro TV
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+http://op-group1-swiftservehd-1.dens.tv/h/h12/01.m3u8
+
+#EXTINF:-1 group-title="Indonesia" tvg-id="MetroTV.id" tvg-logo="https://iptv.urfan.web.id/logo/metrotv.png",Metro TV HD 2
+#EXTVLCOPT:http-user-agent=YouTV/1.8.1-prod.release+d73ba1cb (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://flv.intechmedia.net/live/ch110.m3u8
 
 #EXTINF:-1 tvg-id="NET.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/net.png?raw=true" group-title="Indonesia",NET.
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
@@ -1530,17 +1576,7 @@ https://video.detik.com/transtv/smil:transtv.smil/chunklist_kamiselaluada_b74410
 #EXTINF:0 tvg-country="ID" tvg-logo="https://i.imgur.com/IGIX3o8.jpg" group-title="Indonesia",TV Kesehatan (1080p)
 https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1, tvg-id="MetroTV.id" tvg-logo="https://mncvision.id/userfiles/image/channel/metro_tv.png" group-title="Indonesia",Metro TV FHD
-https://github.com/AqFad2811/randomlivefromyt2/raw/main/MetroTV.m3u8
 
-#EXTINF:-1 group-title="Indonesia" tvg-id="MetroTV.id" tvg-logo="https://iptv.urfan.web.id/logo/metrotv.png",Metro TV
-#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=http://dens.tv
-http://op-group1-swiftservehd-1.dens.tv/h/h12/01.m3u8
-
-#EXTINF:-1 group-title="Indonesia" tvg-id="MetroTV.id" tvg-logo="https://iptv.urfan.web.id/logo/metrotv.png",Metro TV HD
-#EXTVLCOPT:http-user-agent=YouTV/1.8.1-prod.release+d73ba1cb (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://flv.intechmedia.net/live/ch110.m3u8
 
 #EXTINF:-1 tvg-id="tvOne.id" tvg-logo="https://mncvision.id/userfiles/image/channel/tvone.png" group-title="Indonesia",tvOne backup
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/watch/channel/8/tv-one
@@ -1575,15 +1611,6 @@ https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 
-
-#EXTINF:-1 tvg-name="RCTI" tvg-logo="https://hometv.pw/logo/lokal/rcti.png" group-title="Indonesia",RCTI (R+)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-T285YD Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-https://1a-rcti.rctiplus.id/rcti-sdi.mpd
-
-#EXTINF:-1 tvg-name="RCTI" tvg-logo="https://hometv.pw/logo/lokal/rcti.png" group-title="Indonesia",RCTI (R+) HD
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 
 
 
