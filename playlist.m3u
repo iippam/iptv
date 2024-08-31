@@ -1338,7 +1338,30 @@ http://103.248.199.102/camera/PURIGARDEN_PTZ.m3u8
 http://103.248.199.102/camera/INDOMOBIL_PTZ.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/iippam/iptv/blob/main/assets/cctv_icon.jpg?raw=true" group-title="CCTV Batam",Seraya Atas
 http://103.248.199.102/camera/SERAYA_ATAS_PTZ.m3u8
-
+#EXTINF:-1 tvg-logo="https://github.com/iippam/iptv/blob/main/assets/cctv_icon.jpg?raw=true" group-title="CCTV Batam",Dang Anom 1
+https://matanya.batam.go.id/cctv/danganom1/stream.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iippam/iptv/blob/main/assets/cctv_icon.jpg?raw=true" group-title="CCTV Batam",Dang Anom 2
+https://matanya.batam.go.id/cctv/danganom2/stream.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iippam/iptv/blob/main/assets/cctv_icon.jpg?raw=true" group-title="CCTV Batam",Pura Sei Ladi 1
+https://matanya.batam.go.id/cctv/pura1/stream.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iippam/iptv/blob/main/assets/cctv_icon.jpg?raw=true" group-title="CCTV Batam",Pura Sei Ladi 2
+https://matanya.batam.go.id/cctv/pura2/stream.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iippam/iptv/blob/main/assets/cctv_icon.jpg?raw=true" group-title="CCTV Batam",Sei Ladi 1
+https://matanya.batam.go.id/cctv/seiladi1/stream.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iippam/iptv/blob/main/assets/cctv_icon.jpg?raw=true" group-title="CCTV Batam",Sei Ladi 2
+https://matanya.batam.go.id/cctv/seiladi2/stream.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iippam/iptv/blob/main/assets/cctv_icon.jpg?raw=true" group-title="CCTV Batam",Sei Ladi 3
+https://matanya.batam.go.id/cctv/seiladi3/stream.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iippam/iptv/blob/main/assets/cctv_icon.jpg?raw=true" group-title="CCTV Batam",Tanjakan Souhtlink 1
+https://matanya.batam.go.id/cctv/southlink1/stream.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iippam/iptv/blob/main/assets/cctv_icon.jpg?raw=true" group-title="CCTV Batam",Tanjakan Souhtlink 2
+https://matanya.batam.go.id/cctv/southlink2/stream.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iippam/iptv/blob/main/assets/cctv_icon.jpg?raw=true" group-title="CCTV Batam",Pasar Jodoh
+https://matanya.batam.go.id/cctv/pasarjodoh1/stream.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iippam/iptv/blob/main/assets/cctv_icon.jpg?raw=true" group-title="CCTV Batam",Mata Kucing 1
+https://matanya.batam.go.id/cctv/matakucing1/stream.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iippam/iptv/blob/main/assets/cctv_icon.jpg?raw=true" group-title="CCTV Batam",Mata Kucing 2
+https://matanya.batam.go.id/cctv/matakucing2/stream.m3u8
 
 ------------------INDONESIA----------------------
 -------------------------------------------------
