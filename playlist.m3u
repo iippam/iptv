@@ -912,12 +912,6 @@ https://varun-iptv.netlify.app/m3u/Food Network.m3u8
 
 ******************************************************News****************************************************************  
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-id="CNN.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/cnn.png " group-title="NEWS ",CNN International
-https://edge2.laotv.la/live/CNN/sc-gaFECQ/v0_index.m3u8
-
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -1513,11 +1507,9 @@ https://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://rodjatv.com/rodjatv/live.m3u8
 
-#EXTINF:-1 tvg-id="RRINet.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/rrinet.png?raw=true" group-title="Indonesia",RRI Net
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://rrinet.rri.co.id/hls/live.m3u8
+#EXTINF:-1 group-title="Nasional" tvg-id="RRINET.id" tvg-logo="https://iptv.urfan.web.id/logo/rrinettv.png",RRI NET
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://private-streaming.rri.go.id/memfs/ff303a23-f1db-4cb3-95f9-4ae7bef2a392.m3u8
 
 #EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://mncvision.id/userfiles/image/channel/sctv.png" group-title="Indonesia",SCTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
@@ -1551,16 +1543,9 @@ https://video.detik.com/transtv/smil:transtv.smil/chunklist_kamiselaluada_b74410
 https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8?checkedby:iptvcat.com
 
 
-
-#EXTINF:-1 tvg-id="tvOne.id" tvg-logo="https://mncvision.id/userfiles/image/channel/tvone.png" group-title="Indonesia",tvOne backup
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/watch/channel/8/tv-one
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://nyanv-live-cdn.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd
+#EXTINF:-1 group-title="Nasional" tvg-id="tvOne.id" tvg-logo="https://iptv.urfan.web.id/logo/tvone.png",tvOne HD
+#EXTVLCOPT:http-user-agent=YouTV/1.8.1-prod.release+d73ba1cb (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://flv.intechmedia.net/live/ch109.m3u8
 
 #EXTINF:-1 tvg-id="tvOne.id" tvg-logo="https://mncvision.id/userfiles/image/channel/tvone.png" group-title="Indonesia",tvOne FHD
 https://raw.githubusercontent.com/AqFad2811/randomlivefromyt3/main/tvOne.m3u8
