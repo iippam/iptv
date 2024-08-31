@@ -346,8 +346,6 @@ http://mudy02.cularu.com:8880/12mmx010011/69774664/71101
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ikitv/project/main/20240525_033021.png" group-title="BEIN SPORTS", •  🇿🇦 Bein Sport 3 HD
 http://mudy02.cularu.com:8880/12mmx010011/69774664/26581
 
-
-
 ############SSC SPORTS ###########
 
 #EXTINF:0 tvg-name="ssc1" tvg-logo="https://yt3.googleusercontent.com/7KCyLUN6LidKfNfN6KozO_ZwaF-g21xPFLO0BDaUYsWWeY2QVhKB_qJhHw4jvwUQkg-6GXw1qg=s900-c-k-c0x00ffffff-no-rj" group-title="SSC SPORTS 🇸🇦",SSC 1
@@ -734,13 +732,10 @@ https://www.googleapis.com/drive/v3/files/11LBp4YaEbseYj7QySVewJj2Sa37GnVCR?alt=
 
 
 
----------------------------------------------
 ###########################
 ######### NASIONAL ########
 ###########################
 
-
-*********************************************EMTEX**************************************************
 #EXTINF:-1 tvg-id="Indosiar - [Channel 78].id" tvg-name="Indosiar" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/indosiar-1.png " group-title="NASIONAL", INDOSIAR
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -882,7 +877,6 @@ https://tglmp02.akamaized.net/out/v1/b37a81eb3585471cb9c639c78edcdefa/manifest.m
 https://cors-proxy.elfsight.com/https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/2407/default.mpd
 
 
-
 ################################################################ ************************
 
 
@@ -911,19 +905,12 @@ https://rakuten-actionmovies-6-eu.rakuten.wurl.tv/3000.m3u8
 #EXTINF:-1 tvg-id="K +" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1613353381-.png" group-title="MOVIES ",K+
 http://210.210.155.35/session/dc04a98e-793d-11ed-991d-c81f66f89318/uq2663/h/h08/index.m3u8
 
-****************************************************Kids*******************************************************************
-****************************************************Kids*******************************************************************
-****************************************************Kids*******************************************************************
-****************************************************Kids*******************************************************************
-****************************************************Kids*******************************************************************
-
 
 #EXTINF:-1 tvg-id="Food Network (East)" tvg-name="Food Network (East)" tvg-logo="https://i.ibb.co/SJggJBt/foodnetwork.png" group-title="LIFESTYLE", FOOD NETWORK
 https://varun-iptv.netlify.app/m3u/Food Network.m3u8
 
 
 ******************************************************News****************************************************************  
-
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -987,12 +974,6 @@ https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 tvg-id="KPOP TV" tvg-logo="https://kpoptv.live/wp-content/uploads/2021/10/logokpoptvplay.png " group-title="MUSIC ",KPOP TV
 https://ssh101-fl.bozztv.com/ssh101/kpoptv/tracks-v1a1/mono.m3u8
-
-
-****************************************FTA International***************************************************************** 
-****************************************FTA International***************************************************************** 
-****************************************FTA International***************************************************************** 
-****************************************FTA International***************************************************************** 
 
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/hgVx5GL/Bein-1.png" group-title="SPORTS", BEIN 1 ID
@@ -1163,8 +1144,6 @@ https://bapak.natannafalah.workers.dev/https://d3ey18635ukr4v.cloudfront.net/CH1
 #EXTINF:-1 tvg-id="AstroSupersport4" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png" group-title="SPORTS",Assp 4
 https://bapak.natannafalah.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default.mpd
 
-
-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=X-Forwarded-For=2405:9800:7:4:3::47
 #EXTINF:-1 group-title="Sports" tvg-id="beinsports1thailand.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQg1mVIv2xLOiEBCMFKVwPuKZHaHFiL3pId7ioTl-lY3g&s",beIN Ais 1
@@ -1219,9 +1198,6 @@ http://redima.pro:8880/live/VALLE1402/VALLE1402/576.m3u8
 
 #EXTINF:-1 tvg-id="Ziggo Sport" tvg-logo="https://elcomercio.pe/resizer/vtG-1q6Pe-NJaVMsE36hrbPkm00=/1200x675/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/2NCA5YZUQRFXRAMBWIKFDWRRZI.jpg" group-title="Sports", TyC Sports
 https://d107yb993altze.cloudfront.net/out/v1/772e0b0193134726ad84693b7baca6c6/index.m3u8
-
-
-
 
 #EXTINF:-1  group-title="Sports",DAZN 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -1288,7 +1264,6 @@ https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/o
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=60c0d9b41475e01db4ffb91ed557fbcc:36ee40e58948ca15e3caba8d47b8f34b
 https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/gesdwrdncn/out/v1/79e752f1eccd4e18b6a8904a0bc01f2d/cenc.mpd
-
 
 
 ###########################
@@ -1358,8 +1333,7 @@ https://matanya.batam.go.id/cctv/matakucing1/stream.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/iippam/iptv/blob/main/assets/cctv_icon.jpg?raw=true" group-title="CCTV Batam",Mata Kucing 2
 https://matanya.batam.go.id/cctv/matakucing2/stream.m3u8
 
-------------------INDONESIA----------------------
--------------------------------------------------
+
 ------------------INDONESIA----------------------
 ------------------INDONESIA----------------------
 ------------------INDONESIA----------------------
