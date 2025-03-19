@@ -196,7 +196,7 @@ http://iptvtree.net:8080/everton/7def2e7e/300662
 #EXTINF:-1 tvg-id="" tvg-name="Radio 51" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="CHANNELS BACKUP", Radio 51
 http://iptvtree.net:8080/everton/7def2e7e/300846
 #EXTINF:-1 tvg-id="" tvg-name="RCTI" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="CHANNELS BACKUP", RCTI
-http://iptvtree.net:8080/everton/7def2e7e/157591
+https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Rock Action" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/72d376f51855e885d4d094d6f697324e.png" group-title="CHANNELS BACKUP", Rock Action
 http://iptvtree.net:8080/everton/7def2e7e/298490
 #EXTINF:-1 tvg-id="" tvg-name="Rock Entertaiment" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/9a6cf4f6391f4d39f34c0a04a208e4c1.png" group-title="CHANNELS BACKUP", Rock Entertaiment
@@ -1468,11 +1468,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD
 ###########################
 
 #EXTINF:-1 group-title="Indonesia" tvg-id="RCTI.id" tvg-logo="https://iptv.urfan.web.id/logo/rcti.png",RCTI
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZjdiMDljNTItMmYzZC0zNDcyLTllYmItY2QxNDdiYzlhZWY0
-#EXTVLCOPT:http-user-agent=MNCNow/6.33.3 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
 
 #EXTINF:-1 group-title="Indonesia" tvg-id="MNCTV.id" tvg-logo="https://iptv.urfan.web.id/logo/mnctv.png",MNCTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
