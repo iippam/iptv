@@ -1414,7 +1414,7 @@ https://matanya.batam.go.id/cctv/matakucing2/stream.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/btv.png?raw=true" group-title="Indonesia" group-logo="https://pluspng.com/img-png/flag-logo-vector-png-republic-of-indonesia-flag-logo-vector-1600.png",Berita Satu
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/btv.png?raw=true" group-title="Indonesia" group-logo="https://pluspng.com/img-png/flag-logo-vector-png-republic-of-indonesia-flag-logo-vector-1600.png",BTV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -1527,6 +1527,9 @@ http://op-group1-swiftservehd-1.dens.tv/s/s104/01.m3u8
 
 #EXTINF:-1, tvg-id="KompasTV.id" group-title="Indonesia" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_106.png",Kompas TV Streaming
 https://github.com/AqFad2811/randomlivefromyt2/raw/main/KompasTV.m3u8
+
+#EXTINF:-1, tvg-id="" group-title="Indonesia" tvg-logo="https://tvrparlemen.dpr.go.id/wp-content/uploads/2024/06/LOGO-NEW-557x450.png",TVR Parlemen
+https://wowza.dpr.go.id/golive/livestream/chunklist_w730880233.m3u8
 
 #EXTINF:-1 tvg-id="MagnaChannel.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/magna.png?raw=true" group-title="Indonesia",Magna Channel
 #KODIPROP:inputstream=inputstream.adaptive
