@@ -1499,7 +1499,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
 
-#EXTINF:-1 group-title="Indonesia" tvg-id="MNCTV.id" tvg-logo="https://iptv.urfan.web.id/logo/mnctv.png",MNCTV
+#EXTINF:900 group-title="Indonesia" tvg-id="MNCTV.id" tvg-logo="https://1.bp.blogspot.com/-hAsT1XMXVoI/WT3-6UNhDqI/AAAAAAAAAPg/pPxBafYS-j4dnJUSSsND1B8d-H1FecFlgCLcB/s1600/MNCTV_logo.png",MNCTV
 https://mnctv-cutv.rctiplus.id/mnctv-sdi-avc1_800000=7-mp4a_96000=1.m3u8
 
 
