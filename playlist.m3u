@@ -2,6 +2,8 @@
 
 #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml"
 
+#EXTM3U url-tvg="https://epg.pw/xmltv/epg_ID.xml"
+
 #EXTM3U url-tvg="https://epg.pw/api/epg.xml?lang=en&date=20230411&channel_id=63181"
 #EXTM3U url-tvg="https://epg.pw/api/epg.xml?lang=en&date=20230411&channel_id=63211"
 
