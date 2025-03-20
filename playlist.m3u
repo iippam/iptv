@@ -1610,12 +1610,14 @@ https://video.detik.com/transtv/smil:transtv.smil/chunklist_kamiselaluada_b74410
 #EXTINF:0 tvg-country="ID" tvg-logo="https://i.imgur.com/IGIX3o8.jpg" group-title="Indonesia",TV Kesehatan (1080p)
 https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8?checkedby:iptvcat.com
 
-
 #EXTINF:-1 tvg-id="tvOne.id" tvg-logo="https://mncvision.id/userfiles/image/channel/tvone.png" group-title="Indonesia",tvOne FHD
 https://raw.githubusercontent.com/iippam/randomlivefromyt/main/tvOne.m3u8
 
 #EXTINF:-1 tvg-id="tvOne.id" tvg-logo="https://mncvision.id/userfiles/image/channel/tvone.png" group-title="Indonesia",tvOne
 https://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://algorit.ma/wp-content/uploads/2023/03/liputan6-300x300.png" group-title="Indonesia",Liputan6
+https://raw.githubusercontent.com/iippam/randomlivefromyt/main/liputan6.m3u8
 
 #EXTINF:-1 tvg-id="TVRI.id" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="Indonesia",TVRI Nasional
 #KODIPROP:inputstream=inputstream.adaptive
