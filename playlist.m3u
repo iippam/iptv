@@ -17,10 +17,6 @@
 ##### CHANNELS BACKUP #####
 ###########################
 
-
-#EXTINF:-1 tvg-id="" tvg-name="Animax" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ac69997f647a6e4b289ee8a647d0dfbd.png" group-title="CHANNELS BACKUP", Animax
-http://iptvtree.net:8080/everton/7def2e7e/165081
-
 #EXTM3U
 #EXTINF:-1 group-title="CHANNELS BACKUP",ANTV
 http://op-group1-swiftservehd-1.dens.tv/s/s07/01.m3u8
