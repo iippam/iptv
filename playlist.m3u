@@ -610,13 +610,13 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1028346365_b
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-id="RodjaTV.Id" tvg-logo="http://www.dens.tv/images/channel-logo/21.jpg" group-title="RELIGION",RodjaTV
+#EXTINF:-1 tvg-id="RodjaTV.Id" tvg-logo="http://www.dens.tv/images/channel-logo/21.jpg" group-title="Nasional",RodjaTV
 https://rodjatv.com/rodjatv/live.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-id="TV9.Id" tvg-logo=" https://mncplay.id/wp-content/uploads/2013/10/tv9-1.png" group-title="RELIGION ",TV9
+#EXTINF:-1 tvg-id="TV9.Id" tvg-logo=" https://mncplay.id/wp-content/uploads/2013/10/tv9-1.png" group-title="Nasional ",TV9
 https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
 
 
