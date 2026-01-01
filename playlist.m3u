@@ -695,19 +695,16 @@ https://matanya.batam.go.id/cctv/matakucing2/stream.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8
 
-#EXTINF:-1 tvg-id="BatamTV.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Batam_TV.png" group-title="Indonesia",Batam TV (480p) [Not 24/7]
+#EXTINF:-1 tvg-id="BatamTV.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Batam_TV.png" group-title="Indonesia",Batam TV (480p)
 http://122.248.43.242:1935/BATAMTV/_definst_/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/btv.png?raw=true" group-title="Indonesia" group-logo="https://pluspng.com/img-png/flag-logo-vector-png-republic-of-indonesia-flag-logo-vector-1600.png",Berita Satu
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
 https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
 
 #EXTINF:-1 tvg-id="BTV.id@SD" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_103.png" group-title="Indonesia",BTV (720p)
 https://btv.secureswiftcontent.com/han/btv/btv10005/srtoutput/manifest.m3u8
 
-#EXTINF:-1 tvg-id="CNBCIndonesia.id" tvg-logo="https://mncvision.id/userfiles/image/channel/cnbc.png" group-title="Indonesia",CNBC Indonesia Backup
+#EXTINF:-1 tvg-id="CNBCIndonesia.id" tvg-logo="https://mncvision.id/userfiles/image/channel/cnbc.png" group-title="Indonesia",CNBC Indonesia
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -719,16 +716,7 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w312895787_b3
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_b384000_sleng.m3u8
 
-
-#EXTINF:-1 tvg-id="DAAITV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/daaitv.png?raw=true" group-title="Indonesia",DAAI TV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://dacastmmd.mmdlive.lldns.net/dacastmmd/683cc426c19442a4ba31c53be5c963bb/index.m3u8
-
-
-
-#EXTINF:-1 tvg-id="moji.id" tvg-logo="https://tvtolive.com/wp-content/uploads/Moji-TV-tvtolive.com_.jpg" group-title="Indonesia",Moji TV DensTV
+#EXTINF:-1 tvg-id="moji.id" tvg-logo="https://tvtolive.com/wp-content/uploads/Moji-TV-tvtolive.com_.jpg" group-title="Indonesia",Moji TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 http://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
 
@@ -782,7 +770,7 @@ http://op-group1-swiftservehd-1.dens.tv/s/s104/01.m3u8
 #EXTINF:-1, tvg-id="KompasTV.id" group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/6dca0f82c0415242463eab39b28fd715.png",Kompas TV Streaming FHD
 https://raw.githubusercontent.com/iippam/randomlivefromyt/refs/heads/main/KompasTV.m3u8
 
-#EXTINF:-1, tvg-id="TVR.id" group-title="Indonesia" tvg-logo="",TVR Parlemen
+#EXTINF:-1 group-title="Indonesia",TVR Parlemen
 https://wowza.dpr.go.id/golive/livestream/chunklist_w730880233.m3u8
 
 #EXTINF:-1 tvg-id="MagnaChannel.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/magna.png?raw=true" group-title="Indonesia",Magna Channel
@@ -796,9 +784,6 @@ https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
-
-#EXTINF:-1, tvg-id="MetroTV.id" tvg-logo="" group-title="Indonesia",Metro TV FHD
-https://raw.githubusercontent.com/iippam/randomlivefromyt/refs/heads/main/MetroTV.m3u8
 
 #EXTINF:-1 group-title="Indonesia" tvg-id="MetroTV.id" tvg-logo="",Metro TV
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
