@@ -691,10 +691,12 @@ https://matanya.batam.go.id/cctv/matakucing2/stream.m3u8
 ------------------INDONESIA----------------------
 ------------------INDONESIA----------------------
 
-
 #EXTINF:-1 tvg-id="ANTV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/antv.png?raw=true" group-title="Indonesia" group-logo="https://pluspng.com/img-png/flag-logo-vector-png-republic-of-indonesia-flag-logo-vector-1600.png" ,ANTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8
+
+#EXTINF:-1 tvg-id="BatamTV.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Batam_TV.png" group-title="Indonesia",Batam TV (480p) [Not 24/7]
+http://122.248.43.242:1935/BATAMTV/_definst_/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/btv.png?raw=true" group-title="Indonesia" group-logo="https://pluspng.com/img-png/flag-logo-vector-png-republic-of-indonesia-flag-logo-vector-1600.png",BTV
 #KODIPROP:inputstream=inputstream.adaptive
