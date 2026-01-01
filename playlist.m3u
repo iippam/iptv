@@ -930,52 +930,11 @@ http://op-group1-swiftservehd-1.dens.tv/h/h218/02.m3u8
 #########################
 
 
-#EXTINF:-1 group-title="Hiburan" tvg-id="rockentertainment.id" tvg-logo="https://iptv.urfan.web.id/logo/rockent.png",Rock Entertainment
-#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=http://dens.tv
-http://op-group1-swiftservehd-1.dens.tv/h/h213/02.m3u8
 
-#EXTINF:-1 group-title="Hiburan" tvg-id="hits.sg" tvg-logo="https://iptv.urfan.web.id/logo/hits.png",HITS
-#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=http://dens.tv
-http://op-group1-swiftservehd-1.dens.tv/h/h205/02.m3u8
-
-#EXTINF:-1 group-title="Hiburan" tvg-id="kix.hk" tvg-logo="https://iptv.urfan.web.id/logo/kix.png",KIX
-#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=http://dens.tv
-http://op-group1-swiftservehd-1.dens.tv/h/h220/02.m3u8
-
-#EXTINF:-1 group-title="Hiburan" tvg-id="kbsworld.kr" tvg-logo="https://iptv.urfan.web.id/logo/kbsworld.png",KBS World
-#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=http://dens.tv
-http://op-group1-swiftservehd-1.dens.tv/h/h243/02.m3u8
-
-#EXTINF:-1 group-title="Hiburan" tvg-id="kbskorea.kr" tvg-logo="https://iptv.urfan.web.id/logo/kbskorea.png",KBS Korea
-#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=http://dens.tv
-http://op-group1-swiftservehd-1.dens.tv/h/h241/02.m3u8
-
-
-#EXTINF:-1 group-title="Hiburan" tvg-id="nadoo.kr" tvg-logo="https://iptv.urfan.web.id/logo/nadoo.png",Nadoo Korean
-#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=http://dens.tv
-http://op-krgroup1-swiftservehd-1.dens.tv/h/h125/live.m3u8
-
-#EXTINF:-1 group-title="Hiburan" tvg-id="sbstv.kr" tvg-logo="https://iptv.urfan.web.id/logo/sbs.png",SBSTV
-#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://newidco-sbs-1-eu.xiaomi.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="Hiburan" tvg-id="cjenm.kr" tvg-logo="https://iptv.urfan.web.id/logo/cjenm.png",CJ E&M
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-id="cjenm.kr" tvg-logo="https://iptv.urfan.web.id/logo/cjenm.png",CJ E&M
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://d50a1g0nh14ou.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/CJ-ENM-prod/e91c6419_2e45_4f6c_a646_b912658d73b8/hls/playlist.m3u8
 
-#EXTINF:-1 group-title="Hiburan" tvg-id="arirangworld.kr" tvg-logo="https://iptv.urfan.web.id/logo/arirang.png",Arirang HD
-#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="Hiburan" tvg-id="kbsworld.kr" tvg-logo="https://iptv.urfan.web.id/logo/kbsworld.png",KBS World HD
-#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 
 
 
