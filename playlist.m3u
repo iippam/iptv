@@ -702,7 +702,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
 #EXTINF:-1 tvg-id="BTV.id" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_103.png" group-title="Indonesia",BTV HD
-https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
+https://beritasatu.secureswiftcontent.com/han/beritasatu/bsatu10008r/srtoutput/hvideo-1280x720.m3u8
 
 #EXTINF:-1 tvg-id="CNBCIndonesia.id" tvg-logo="https://mncvision.id/userfiles/image/channel/cnbc.png" group-title="Indonesia",CNBC Indonesia Backup
 #KODIPROP:inputstream=inputstream.adaptive
@@ -724,26 +724,6 @@ http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_b384000_sleng.m3u
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/683cc426c19442a4ba31c53be5c963bb/index.m3u8
 
 
-#EXTINF:-1 tvg-id="IDTV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/idtv.png?raw=true" group-title="Indonesia",IDTV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
-
-#EXTINF:-1 tvg-id="IDTV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/idtv.png?raw=true" group-title="Indonesia",IDTV FHD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://beritasatu-poc.secureswiftcontent.com/han/lineardemo/srt10008hls/srtoutput/hvideo-1920x1080.m3u8
-
-#EXTINF:-1 tvg-id="IndonesianaTV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/indonesianatv.png?raw=true" group-title="Indonesia",Indonesiana.TV 720P
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://dgwubfppws111.cloudfront.net/out/v1/667a86e35ddd496c886fa11598dc184d/index.m3u8
-
-#EXTINF:-1 tvg-id="IndonesianaTV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/indonesianatv.png?raw=true" group-title="Indonesia",Indonesiana.TV FHD
-https://dgwubfppws111.cloudfront.net/out/v1/667a86e35ddd496c886fa11598dc184d/index_1.m3u8
 
 #EXTINF:-1 tvg-id="moji.id" tvg-logo="https://tvtolive.com/wp-content/uploads/Moji-TV-tvtolive.com_.jpg" group-title="Indonesia",Moji TV DensTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
@@ -793,7 +773,7 @@ http://op-group1-swiftservehd-1.dens.tv/s/s104/01.m3u8
 #EXTINF:-1, tvg-id="KompasTV.id" group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/6dca0f82c0415242463eab39b28fd715.png",Kompas TV Streaming FHD
 https://raw.githubusercontent.com/iippam/randomlivefromyt/refs/heads/main/KompasTV.m3u8
 
-#EXTINF:-1, tvg-id="" group-title="Indonesia" tvg-logo="https://tvrparlemen.dpr.go.id/wp-content/uploads/2024/06/LOGO-NEW-557x450.png",TVR Parlemen
+#EXTINF:-1, tvg-id="TVR.id" group-title="Indonesia" tvg-logo="",TVR Parlemen
 https://wowza.dpr.go.id/golive/livestream/chunklist_w730880233.m3u8
 
 #EXTINF:-1 tvg-id="MagnaChannel.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/magna.png?raw=true" group-title="Indonesia",Magna Channel
@@ -808,14 +788,13 @@ https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
 
-#EXTINF:-1, tvg-id="MetroTV.id" tvg-logo="https://iptv.urfan.web.id/logo/metrotv.png" group-title="Indonesia",Metro TV FHD
+#EXTINF:-1, tvg-id="MetroTV.id" tvg-logo="" group-title="Indonesia",Metro TV FHD
 https://raw.githubusercontent.com/iippam/randomlivefromyt/refs/heads/main/MetroTV.m3u8
 
-#EXTINF:-1 group-title="Indonesia" tvg-id="MetroTV.id" tvg-logo="https://iptv.urfan.web.id/logo/metrotv.png",Metro TV
+#EXTINF:-1 group-title="Indonesia" tvg-id="MetroTV.id" tvg-logo="",Metro TV
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h12/01.m3u8
-
 
 #EXTINF:-1 tvg-id="NET.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/net.png?raw=true" group-title="Indonesia",NET. MDTV SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
