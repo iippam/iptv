@@ -732,7 +732,7 @@ https://allcutv.rctiplus.id/inews2023.m3u8
 http://op-group1-swiftservehd-1.dens.tv/s/s104/01.m3u8
 
 
-#EXTINF:-1 group-title="Indonesia",TVR Parlemen
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://tvrparlemen.dpr.go.id/wp-content/uploads/2024/06/LOGO-NEW-557x450.png",TVR Parlemen
 https://wowza.dpr.go.id/golive/livestream/chunklist_w730880233.m3u8
 
 #EXTINF:-1 tvg-id="MagnaChannel.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/magna.png?raw=true" group-title="Indonesia",Magna Channel
