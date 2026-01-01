@@ -595,7 +595,7 @@ https://edge.medcom.id/live-edge/smil:mgnch.smil/chunklist_w754412833_b3884000_s
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-id="CNBC INDONESIA "tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png " group-title="NEWS ",CNBC INDONESIA
+#EXTINF:-1 tvg-id="CNBCIndonesia.id"tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png " group-title="NEWS ",CNBC INDONESIA
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1028346365_b384000_sleng.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -757,8 +757,6 @@ https://raw.githubusercontent.com/iippam/randomlivefromyt/refs/heads/main/inews.
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/s/s104/01.m3u8
 
-#EXTINF:-1, tvg-id="KompasTV.id" group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/6dca0f82c0415242463eab39b28fd715.png",Kompas TV Streaming FHD
-https://raw.githubusercontent.com/iippam/randomlivefromyt/refs/heads/main/KompasTV.m3u8
 
 #EXTINF:-1 group-title="Indonesia",TVR Parlemen
 https://wowza.dpr.go.id/golive/livestream/chunklist_w730880233.m3u8
