@@ -895,6 +895,15 @@ https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
 
+#EXTINF:-1 group-title="Kids" tvg-id="ebs1tv.kr" tvg-logo="https://iptv.urfan.web.id/logo/ebs.png",EBS 1
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-id="ebs2tv.kr" tvg-logo="https://iptv.urfan.web.id/logo/ebs.png",EBS 2
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/playlist.m3u8
+
+
 
 ######################
 ####### BERITA #######
@@ -921,14 +930,6 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/strea
 ####### PENGETAHUAN #######
 ###########################
 
-
-#EXTINF:-1 group-title="Pengetahuan" tvg-id="ebs1tv.kr" tvg-logo="https://iptv.urfan.web.id/logo/ebs.png",EBS 1
-#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8
-
-#EXTINF:-1 group-title="Pengetahuan" tvg-id="ebs2tv.kr" tvg-logo="https://iptv.urfan.web.id/logo/ebs.png",EBS 2
-#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/playlist.m3u8
 
 
 
