@@ -766,11 +766,11 @@ https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h12/01.m3u8
 
-#EXTINF:-1 tvg-id="NET.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/net.png?raw=true" group-title="Indonesia",NET. MDTV HD
+#EXTINF:-1 tvg-id="NET.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/net.png?raw=true" group-title="Indonesia",MDTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://op-group1-swiftservehd-1.dens.tv/h/h223/index.m3u8
 
-#EXTINF:-1 tvg-id="NET.id" tvg-logo="https://github.com/iippam/iptv/blob/main/assets/net.jpeg?raw=true" group-title="Indonesia",NET. MDTV FHD
+#EXTINF:-1 tvg-id="NET.id" tvg-logo="https://github.com/iippam/iptv/blob/main/assets/net.jpeg?raw=true" group-title="Indonesia",MDTV Streaming
 https://raw.githubusercontent.com/iippam/randomlivefromyt/refs/heads/main/NET.m3u8
 
 #EXTINF:-1 group-title="Indonesia" tvg-id="Net.id" tvg-logo="https://github.com/iippam/iptv/blob/main/assets/net.jpeg?raw=true",MDTV SD
