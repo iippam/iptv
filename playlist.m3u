@@ -640,7 +640,7 @@ http://122.248.43.242:1935/BATAMTV/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/btv.png?raw=true" group-title="Indonesia" group-logo="https://pluspng.com/img-png/flag-logo-vector-png-republic-of-indonesia-flag-logo-vector-1600.png",Berita Satu
 https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
 
-#EXTINF:-1 tvg-id="BTV.id@SD" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_103.png" group-title="Indonesia",BTV (720p)
+#EXTINF:-1 tvg-id="BTV.id" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_103.png" group-title="Indonesia",BTV (720p)
 https://btv.secureswiftcontent.com/han/btv/btv10005/srtoutput/manifest.m3u8
 
 #EXTINF:-1 tvg-id="CNBCIndonesia.id" tvg-logo="https://mncvision.id/userfiles/image/channel/cnbc.png" group-title="Indonesia",CNBC Indonesia
