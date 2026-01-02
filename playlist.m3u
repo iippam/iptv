@@ -671,7 +671,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 ######## MNC GROUP ########
 ###########################
 
-#EXTINF:-1 group-title="Indonesia" tvg-id="RCTI.id" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png",RCTI #2
+#EXTINF:-1 group-title="Indonesia" tvg-id="RCTI.id" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png",RCTI HD #2
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
