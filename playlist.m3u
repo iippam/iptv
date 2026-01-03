@@ -698,7 +698,7 @@ https://raw.githubusercontent.com/iippam/randomlivefromyt/refs/heads/main/inews.
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://allcutv.rctiplus.id/inews2023.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/I0L6H1W.png" group-title="Indonesia",iNews #3
+#EXTINF:-1 tvg-id="iNews.id" tvg-logo="https://i.imgur.com/I0L6H1W.png" group-title="Indonesia",iNews #3
 https://tv.casindo.org/hls/52/52.m3u8
 
 
