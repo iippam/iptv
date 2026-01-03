@@ -744,6 +744,9 @@ https://raw.githubusercontent.com/iippam/randomlivefromyt/refs/heads/main/NET.m3
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservesd-1.dens.tv/h/h06/01.m3u8
 
+#EXTINF:-1 tvg-id="NET.id" tvg-logo="https://github.com/iippam/iptv/blob/main/assets/net.jpeg?raw=true" group-title="Indonesia",MDTV HD #2
+https://tv.casindo.org/hls/44/44.m3u8
+
 #EXTINF:-1 tvg-id="NusantaraTV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/nusantaratv.png?raw=true" group-title="Indonesia",Nusantara TV FHD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstreamaddon=inputstream.adaptive
