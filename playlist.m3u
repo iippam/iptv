@@ -612,11 +612,23 @@ https://matanya.batam.go.id/cctv/matakucing2/stream.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QWeAZ6j.png" group-title="Indonesia",ANTV #2
+https://tv.casindo.org/hls/45/45.m3u8
+
+
 #EXTINF:-1 tvg-id="BatamTV.id@SD" tvg-logo="https://batamtv.com/wp-content/uploads/2022/12/logo-terbaru-300x106.png" group-title="Indonesia",Batam TV (480p)
 http://122.248.43.242:1935/BATAMTV/_definst_/myStream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/btv.png?raw=true" group-title="Indonesia" group-logo="https://pluspng.com/img-png/flag-logo-vector-png-republic-of-indonesia-flag-logo-vector-1600.png",Berita Satu
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/btv.png?raw=true" group-title="Indonesia" group-logo="https://pluspng.com/img-png/flag-logo-vector-png-republic-of-indonesia-flag-logo-vector-1600.png",Berita Satu #2
 https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iBzuSFw.jpeg" group-title="Indonesia",Berita Satu
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://delta.dens.tv/
+https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/BeritaSatu.m3u8
+
 
 #EXTINF:-1 tvg-id="BTV.id" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_103.png" group-title="Indonesia",BTV (720p)
 https://btv.secureswiftcontent.com/han/btv/btv10005/srtoutput/manifest.m3u8
